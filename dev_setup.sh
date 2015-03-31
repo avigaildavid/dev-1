@@ -39,5 +39,9 @@ echo "Install grunt"
 sudo npm install -g grunt-cli
 clear
 
+echo "Install gulp"
+sudo npm install -g gulp
+clear
+
 brew doctor
 echo "Install complete!"
